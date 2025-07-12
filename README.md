@@ -139,3 +139,4 @@ php artisan test
 - [stancl/tenancy for Laravel](https://tenancyforlaravel.com/)
 - [Laravel Breeze](https://laravel.com/docs/10.x/starter-kits#laravel-breeze)
 - [Vite](https://vitejs.dev/)
+- https://codecourse.com/watch/laravel-multi-tenancy-basics/installing-the-tenancy-package
